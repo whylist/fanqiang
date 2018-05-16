@@ -1,0 +1,2 @@
+# FanQiang
+机场主联盟：公益分享免费SSR节点Vmess免费节点tgVPN线路gfw科学上网梯子免流量加速技术  ①ssr和ss节点，ios客户端用potatso lite小火箭Wingy,icetea；安卓用ssrr影梭ShadowsocksRR大杀器 ②Vmess节点，苹果用kitsunebi,shadowrocket； Android用bifrostv,V2rayNG ③Socks5代理，专用于telegram点一下自动设置tg代理  酸酸乳翻墙
